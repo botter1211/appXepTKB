@@ -1,0 +1,94 @@
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\bin\Debug\QLTKB.exe
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\bin\Debug\QLTKB.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmGiaoVien.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmKhoa.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmLop.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmMain.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmMonHoc.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmPhongHoc.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.exe
+c:\users\administrator\documents\visual studio 2010\Projects\QLTKB\QLTKB\obj\x86\Debug\QLTKB.pdb
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.exe
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.pdb
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmGiaoVien.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmKhoa.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmLop.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmMain.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmMonHoc.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmPhongHoc.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmXepTKB.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\bin\Debug\QLTKB.exe
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\bin\Debug\QLTKB.pdb
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmDangNhap.resources
+C:\Users\Administrator\Desktop\QLTKB\QLTKB\obj\x86\Debug\QLTKB.frmXemTKB.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.exe
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.pdb
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\bin\Debug\QLTKB.exe
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\bin\Debug\QLTKB.pdb
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmDangNhap.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmGiaoVien.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmKhoa.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmLop.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmMain.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmMonHoc.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmPhongHoc.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmXemTKB.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.frmXepTKB.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\QLTKB.Properties.Resources.resources
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DuAnKH\DuAnChoSV\SapXepTKB\QLTKB\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DuAnKH\DuAnChoSV\P2Share.comSapXepTKB\QLTKB\obj\x86\Debug\QLTKB.exe
+E:\DuAnKH\DuAnChoSV\P2Share.comSapXepTKB\QLTKB\obj\x86\Debug\QLTKB.pdb
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.exe
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.pdb
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\bin\Debug\QLTKB.exe
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\bin\Debug\QLTKB.pdb
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.csprojResolveAssemblyReference.cache
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmDangNhap.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmGiaoVien.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmKhoa.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmLop.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmMain.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmMonHoc.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmPhongHoc.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmXemTKB.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmXepTKB.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.Properties.Resources.resources
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.csproj.GenerateResource.Cache
+D:\school\LapTrinhWindow\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\thoikhoabieu\QLTKB\bin\Debug\QLTKB.exe.config
+D:\LapTrinh\thoikhoabieu\QLTKB\bin\Debug\QLTKB.exe.config
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.exe
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.pdb
+D:\LapTrinh\thoikhoabieu\QLTKB\bin\Debug\QLTKB.exe
+D:\LapTrinh\thoikhoabieu\QLTKB\bin\Debug\QLTKB.pdb
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.csprojResolveAssemblyReference.cache
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmDangKy.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmDangNhap.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmGiaoVien.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmKhoa.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmLop.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmMain.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmMonHoc.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmPhongHoc.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmXemTKB.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmXepTKB.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.Properties.Resources.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.csproj.GenerateResource.Cache
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmQLTK.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\RdlCompile.cache
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\RdlCompile.compiled
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmbaocaomh.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmbaocaok.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\obj\x86\Debug\QLTKB.frmbaocaotkb.resources
+D:\LapTrinh\thoikhoabieu\QLTKB\bin\Debug\rptKhoa.rdlc
+D:\LapTrinh\thoikhoabieu\QLTKB\bin\Debug\rptMonhoc.rdlc
+D:\LapTrinh\thoikhoabieu\QLTKB\bin\Debug\rptTKB.rdlc
